@@ -4,7 +4,7 @@
 Generate the essay on ###(The Life of a Software Engineer) has an introduction and mechanism (how a software engineer works) and, at the end, a conclusion and summary that highlight the advantages and disadvantages of being a software Engineer in bullet points. The essay is also concise and short.
 
 
-Output
+### Output
 
 Introduction:
 The field of software engineering has emerged as a highly sought-after and lucrative profession in today's technology-driven world. The life of a software engineer involves continuous learning, problem-solving, and the creation of innovative solutions. This essay will delve into the mechanisms behind the work of software engineers, highlighting their skills and daily activities, and ultimately weigh the advantages and disadvantages of pursuing this rewarding career path.
@@ -53,7 +53,8 @@ Overall, the life of a software engineer is demanding yet tremendously rewarding
 # Prompt-2
 
 Create an essay on The Life of a Software Engineer that includes an introduction, mechanism (how a software engineer works), and a conclusion and summary that highlights the benefits and drawbacks of becoming a software Engineer in bullet points. The essay is equally brief and concise.
-Output
+
+### Output
 
 The Life of a Software Engineer
 
@@ -92,7 +93,7 @@ In summary, the life of a software engineer is dynamic and demanding, requiring 
 A conclusion and summary that list the benefits and drawbacks of being a software engineer in bullet points are included at the end of the essay on The Life of a Software Engineer. It begins with an introduction that explains how a software engineer operates. The essay is equally brief and concise.
 
 
-Output
+### Output
 
 The Life of a Software Engineer
 
